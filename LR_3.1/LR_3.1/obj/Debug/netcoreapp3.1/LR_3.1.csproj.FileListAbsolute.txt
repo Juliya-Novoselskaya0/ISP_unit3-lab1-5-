@@ -1,0 +1,15 @@
+D:\УНИВЕР\2 КУРС\ИСП (С#)\lab\LR_3.1\LR_3.1\bin\Debug\netcoreapp3.1\LR_3.1.exe
+D:\УНИВЕР\2 КУРС\ИСП (С#)\lab\LR_3.1\LR_3.1\bin\Debug\netcoreapp3.1\LR_3.1.deps.json
+D:\УНИВЕР\2 КУРС\ИСП (С#)\lab\LR_3.1\LR_3.1\bin\Debug\netcoreapp3.1\LR_3.1.runtimeconfig.json
+D:\УНИВЕР\2 КУРС\ИСП (С#)\lab\LR_3.1\LR_3.1\bin\Debug\netcoreapp3.1\LR_3.1.runtimeconfig.dev.json
+D:\УНИВЕР\2 КУРС\ИСП (С#)\lab\LR_3.1\LR_3.1\bin\Debug\netcoreapp3.1\LR_3.1.dll
+D:\УНИВЕР\2 КУРС\ИСП (С#)\lab\LR_3.1\LR_3.1\bin\Debug\netcoreapp3.1\LR_3.1.pdb
+D:\УНИВЕР\2 КУРС\ИСП (С#)\lab\LR_3.1\LR_3.1\obj\Debug\netcoreapp3.1\LR_3.1.csprojAssemblyReference.cache
+D:\УНИВЕР\2 КУРС\ИСП (С#)\lab\LR_3.1\LR_3.1\obj\Debug\netcoreapp3.1\LR_3._1.Form1.resources
+D:\УНИВЕР\2 КУРС\ИСП (С#)\lab\LR_3.1\LR_3.1\obj\Debug\netcoreapp3.1\LR_3.1.csproj.GenerateResource.cache
+D:\УНИВЕР\2 КУРС\ИСП (С#)\lab\LR_3.1\LR_3.1\obj\Debug\netcoreapp3.1\LR_3.1.AssemblyInfoInputs.cache
+D:\УНИВЕР\2 КУРС\ИСП (С#)\lab\LR_3.1\LR_3.1\obj\Debug\netcoreapp3.1\LR_3.1.AssemblyInfo.cs
+D:\УНИВЕР\2 КУРС\ИСП (С#)\lab\LR_3.1\LR_3.1\obj\Debug\netcoreapp3.1\LR_3.1.csproj.CoreCompileInputs.cache
+D:\УНИВЕР\2 КУРС\ИСП (С#)\lab\LR_3.1\LR_3.1\obj\Debug\netcoreapp3.1\LR_3.1.dll
+D:\УНИВЕР\2 КУРС\ИСП (С#)\lab\LR_3.1\LR_3.1\obj\Debug\netcoreapp3.1\LR_3.1.pdb
+D:\УНИВЕР\2 КУРС\ИСП (С#)\lab\LR_3.1\LR_3.1\obj\Debug\netcoreapp3.1\LR_3.1.genruntimeconfig.cache
